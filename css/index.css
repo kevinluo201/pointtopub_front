@@ -57,7 +57,13 @@ nav ul li li{padding:10px 0px 10px 10px;}
 nav ul li li:hover{border:none; color:#666057;}
 
 /*====== BANNER ======*/
-.banner img{ width:100%; height:500px; border-top:5px #58bfea solid;}
+.banner001, .banner002, .banner003, .banner004, .banner005{border-top:5px #58bfea solid;}
+.banner001{height:500px;background:url(../images/banner001.jpg) center;}
+.banner002{height:500px;background:url(../images/banner002.jpg) center;}
+.banner003{height:500px;background:url(../images/banner003.jpg) center;}
+.banner004{height:500px;background:url(../images/banner004.jpg) center;}
+.banner005{height:500px;background:url(../images/banner005.jpg) center;}
+
 
 /*====== CONTAINER_INDEX ======*/
 #container{width:1080px; margin:40px auto ; overflow:hidden;}
